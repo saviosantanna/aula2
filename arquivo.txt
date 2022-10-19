@@ -1,1 +1,2 @@
 Texto 1
+Incluindo novo texto
